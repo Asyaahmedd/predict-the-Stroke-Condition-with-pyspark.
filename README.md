@@ -4,7 +4,7 @@ Stoke is a condition in which either the blood flow to the brain stops or blood 
 
 # Project objective
 
-The aim from this project is to create a Logistic Regression Classifier to predict the Stroke Condition.
+The aim of this project is to create a Logistic Regression Classifier to predict the Stroke Condition.
 
 # Project Tasks
 
